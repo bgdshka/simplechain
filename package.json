@@ -1,0 +1,15 @@
+{
+  "name": "simplechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bgdshka/simplechain.git",
+  "author": "<g810bAKO@yandex.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
